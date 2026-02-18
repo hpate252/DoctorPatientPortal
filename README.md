@@ -1,1 +1,1 @@
-# Doctor Patient Portal : Web Application
+# Doctor Patient Portal: Pure PHP-based Web Application
